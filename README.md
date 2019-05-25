@@ -2,7 +2,7 @@
 
 This is a JS application built on Node.JS.
 
-You can view different laptops using this app.
+You can view different laptops using this app. The details of each laptop is fethced from a json file and rendered using a common template.
 
 
 # Usage
